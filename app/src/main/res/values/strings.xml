@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase Invites Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="invitation_title">Mark\'s Invitation Title</string>
+    <string name="invitation_message">Mark\'s Message</string>
+    <string name="invitation_deep_link">https://firebaseinvitestest.page.link/H3Ed</string>
+    <string name="invitation_custom_image">http://www.casualwoodsman.com/WoodlandAlarm/Images/res1280/Distant_Peaks.JPG</string>
+    <string name="invitation_cta">Greetings, Human!</string>
+</resources>
